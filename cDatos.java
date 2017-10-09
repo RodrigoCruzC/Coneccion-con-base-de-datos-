@@ -14,7 +14,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Ger
+ * @author RodrigoCruz
  */
 public class cDatos {
     
